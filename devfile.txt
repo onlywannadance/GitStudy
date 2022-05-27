@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 hello me
 hello first change
+=======
+hello me on master branch
+
+>>>>>>> 2349154 (Change file)
