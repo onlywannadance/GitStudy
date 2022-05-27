@@ -1,4 +1,8 @@
 Hello Git 123 Branch
 nice try
 add new line + numbers
+<<<<<<< HEAD
 rebase test
+=======
+rebase?
+>>>>>>> f2d8ead (rebase test)
