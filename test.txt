@@ -2,7 +2,11 @@ Hello Git 123 Branch
 nice try
 add new line + numbers
 <<<<<<< HEAD
+<<<<<<< HEAD
 rebase test
 =======
 rebase?
 >>>>>>> f2d8ead (rebase test)
+=======
+rebase?
+>>>>>>> f2d8ead2151b905a56c2eec8698c0590b56c50f3
